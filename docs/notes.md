@@ -16,3 +16,4 @@ Notes and usage details for starter-monorepo.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
