@@ -39,3 +39,4 @@ Notes and usage details for starter-monorepo.
 - link the usage section
 - clarify the setup steps
 - add a note about the defaults
+- add a note about the defaults
