@@ -46,3 +46,4 @@ Notes and usage details for starter-monorepo.
 - fix a small wording issue
 - link the usage section
 - link the usage section
+- link the usage section
