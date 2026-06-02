@@ -66,3 +66,4 @@ Notes and usage details for starter-monorepo.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- clarify the setup steps
