@@ -82,3 +82,4 @@ Notes and usage details for starter-monorepo.
 - add a note about the defaults
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
