@@ -86,3 +86,4 @@ Notes and usage details for starter-monorepo.
 - link the usage section
 - add a note about the defaults
 - add a note about the defaults
+- add a note about the defaults
